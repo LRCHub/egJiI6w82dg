@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "Longiness (Remix)",
+  "base_artist": "SugLawd Familiar",
+  "createdAt": "2025-12-11T00:46:05.075112Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "LONGINESS REMIX",
+      "artist": "SugLawd Familiar feat. CHICO CARLITO & Awich",
+      "has_synced": true,
+      "path": "select/01_LONGINESS_REMIX_SugLawd_Familiar_feat._CHICO_CARLITO_&_Awich.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "LONGINESS REMIX",
+      "artist": "SugLawd Familiar, CHICO CARLITO, Awich",
+      "has_synced": true,
+      "path": "select/02_LONGINESS_REMIX_SugLawd_Familiar,_CHICO_CARLITO,_Awich.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "LONGINESS REMIX",
+      "artist": "SugLawd Familiar",
+      "has_synced": true,
+      "path": "select/03_LONGINESS_REMIX_SugLawd_Familiar.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "LONGINESS REMIX",
+      "artist": "SugLawd Familiar, CHICO CARLITO, Awich",
+      "has_synced": true,
+      "path": "select/04_LONGINESS_REMIX_SugLawd_Familiar,_CHICO_CARLITO,_Awich.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "LONGINESS REMIX - From THE FIRST TAKE",
+      "artist": "SugLawd Familiar • CHICO CARLITO • Awich",
+      "has_synced": true,
+      "path": "select/05_LONGINESS_REMIX_-_From_THE_FIRST_TAKE_SugLawd_Familiar_•_CHICO_CARLITO_•_Awich.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "LONGINESS REMIX",
+      "artist": "SugLawd Familiar",
+      "has_synced": true,
+      "path": "select/06_LONGINESS_REMIX_SugLawd_Familiar.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "LONGINESS REMIX - From THE FIRST TAKE",
+      "artist": "Awich",
+      "has_synced": true,
+      "path": "select/07_LONGINESS_REMIX_-_From_THE_FIRST_TAKE_Awich.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "LONGINESS REMIX - From THE FIRST TAKE",
+      "artist": "SugLawd Familiar",
+      "has_synced": false,
+      "path": "select/08_LONGINESS_REMIX_-_From_THE_FIRST_TAKE_SugLawd_Familiar.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "LONGINESS REMIX",
+      "artist": "SugLawd Familiar",
+      "has_synced": true,
+      "path": "select/09_LONGINESS_REMIX_SugLawd_Familiar.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "LONGINESS REMIX - From THE FIRST TAKE",
+      "artist": "SugLawd Familiar, CHICO CARLITO, Awich",
+      "has_synced": true,
+      "path": "select/10_LONGINESS_REMIX_-_From_THE_FIRST_TAKE_SugLawd_Familiar,_CHICO_CARLITO,_Awich.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "LONGINESS REMIX",
+      "artist": "SugLawd Familiar, CHICO CARLITO & Awich",
+      "has_synced": false,
+      "path": "select/pl_01_LONGINESS_REMIX_SugLawd_Familiar,_CHICO_CARLITO_&_Awich.txt"
+    }
+  ]
+}
